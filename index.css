@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
